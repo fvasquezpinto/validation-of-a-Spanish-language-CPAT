@@ -1,4 +1,4 @@
-# Validation of the Spanish Version of a Computer Programming Aptitude Test for First-Year College Students
+# Validation of a Spanish-language Version of a Computer Programming Aptitude Test for First-year University Students
 
 ## Summary
 
